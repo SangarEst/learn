@@ -1,3 +1,8 @@
 @import "libs/normalize";
 @import "style/fonts";
 @import "style/var";
+.popup__container {
+	max-width: 738px;
+	padding: 0px 15px;
+	margin:0 auto;
+}
